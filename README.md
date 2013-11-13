@@ -1,4 +1,4 @@
 opensprinkler-beagle
 ====================
 
-OpenSprinkler Beagle (beagle.opensprinkler.com)
+OpenSprinkler Beagle (http://beagle.opensprinkler.com)
