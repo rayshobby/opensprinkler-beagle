@@ -7,6 +7,11 @@ http://xxx
 
 Release Notes
 =============
+Version 1.1
+---------------------
+- Changed to use OpenSprinkler injection-molded enclosure
+- Changed relay to HK4100F-5V
+
 Initial Release v1.0
 ---------------------
 - LM2596S-5.0 switching regulator.
